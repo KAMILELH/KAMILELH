@@ -14,31 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Computer Engineering Student focused on AI & Software Design
-I am currently completing my degree in Ingénierie Informatique (LST2I) at FST Mohammedia, specializing in building intelligent software solutions and managing complex data systems.
+# Hi there! I'm Kamil 👋
 
-<p style="font-weight: 800;">⚡ Quick Glance</p> <br>
-🔭 <strong>Right now, I'm focused on three main things:</strong>
+I'm a **Computer Engineering Student** focused on **AI & Software Design**. 
+I am currently completing my degree in **Ingénierie Informatique (LST2I)** at **FST Mohammedia**, specializing in building intelligent software solutions and managing complex data systems.
 
-<strong>  •Data:</strong> Learning how to handle and make sense of big datasets.
+---
 
-<strong>  •AI:</strong> Understanding the math behind Machine Learning.
+### ⚡ Quick Glance
 
-<strong>  •Agents:</strong> Building autonomous systems that can make decisions.
+🔭 **Right now, I'm focused on three main things:**
+* **Data:** Learning how to handle and make sense of big datasets.
+* **AI:** Understanding the math behind Machine Learning.
+* **Agents:** Building autonomous systems that can make decisions.
 
-🎯 <strong>My focus:</strong><br>  I love digging into data and figuring out how to build smart systems that can work on their own.
+🎯 **My focus:**
+I love digging into data and figuring out how to build smart systems that can work on their own.
 
-🛠️ <strong>Languages & Tools:</strong>
+---
+
+### 🛠️ Languages & Tools
 Here are the tools I use to bring ideas to life, based on my academic training in advanced programming, Big Data, and AI.
 
-<strong>  •Core Languages:</strong> Python, C, Java (OOP), SQL, JavaScript.
+* **Core Languages:** Python, C, Java (OOP), SQL, JavaScript.
+* **Domains:** Artificial Intelligence, Machine Learning, Web Development, Database Management.
+* **Tools & Technologies:** Git, Big Data frameworks, Cloud technologies.
 
-<strong>  •Domains:</strong> Artificial Intelligence, Machine Learning, Web Development, Database Management
+---
 
-<strong>  •Tools & Technologies:</strong> Git, Big Data frameworks, Cloud technologies.
-
-📫 <strong>How to reach me</strong><br>
+### 📫 How to reach me
 Let's connect!
 
-
-Email: elharbili.kamil1@gmail.com
+* **Email:** elharbili.kamil1@gmail.com
