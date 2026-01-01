@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm a **Computer Engineering Student** focused on **AI & Software Design**. 
-I am currently completing my degree in **Ingénierie Informatique (LST2I)** at **FST Mohammedia**, specializing in building intelligent software solutions and managing complex data systems.
+I am currently completing my degree in **Ingénierie Informatique (LST2I)**, specializing in building intelligent software solutions and managing complex data systems.
 
 ---
 
