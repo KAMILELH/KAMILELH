@@ -14,19 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there! 👋 I'm [Your Name]
-Computer Engineering Student focused on AI & Software Design
+Hi there! 👋
+I'm a Computer Engineering Student focused on AI & Software Design
 I am currently completing my degree in Ingénierie Informatique (LST2I) at FST Mohammedia, specializing in building intelligent software solutions and managing complex data systems.
 
 ⚡ Quick Glance
-🔭 Currently working on: Deepening my skills in Machine Learning and developing an end-to-end web application for my final year project.
+🔭 Right now, I'm focused on three main things:
 
-🎯 My focus: Bridging the gap between robust software engineering and artificial intelligence.
+Data: Learning how to handle and make sense of big datasets.
+
+AI: Understanding the math behind Machine Learning.
+
+Agents: Building autonomous systems that can make decisions.
+
+🎯 My focus: I love digging into data and figuring out how to build smart systems that can work on their own.
 
 🛠️ Languages & Tools
 Here are the tools I use to bring ideas to life, based on my academic training in advanced programming, Big Data, and AI.
 
-Core Languages: Python, Java (OOP), SQL, JavaScript
+Core Languages: Python, C, Java (OOP), SQL, JavaScript.
 
 Domains: Artificial Intelligence, Machine Learning, Web Development, Database Management
 
@@ -35,6 +41,5 @@ Tools & Technologies: Git, Big Data frameworks, Cloud technologies.
 📫 How to reach me
 Let's connect!
 
-LinkedIn: [link to your LinkedIn profile]
 
-Email: [your.email@example.com]
+Email: elharbili.kamil1@gmail.com
