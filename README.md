@@ -17,27 +17,27 @@ Here are some ideas to get you started:
 I'm a Computer Engineering Student focused on AI & Software Design
 I am currently completing my degree in Ingénierie Informatique (LST2I) at FST Mohammedia, specializing in building intelligent software solutions and managing complex data systems.
 
-⚡ Quick Glance <br>
+<p style="font-wheight: 800;">⚡ Quick Glance</p> <br>
 🔭 <strong>Right now, I'm focused on three main things:</strong>
 
-<strong>Data:<strong> Learning how to handle and make sense of big datasets.
+<strong>Data:</strong> Learning how to handle and make sense of big datasets.
 
-<strong>AI:<strong> Understanding the math behind Machine Learning.
+<strong>AI:</strong> Understanding the math behind Machine Learning.
 
-<strong>Agents:<strong> Building autonomous systems that can make decisions.
+<strong>Agents:</strong> Building autonomous systems that can make decisions.
 
-🎯 My focus: I love digging into data and figuring out how to build smart systems that can work on their own.
+🎯 <strong>My focus:</strong><br> I love digging into data and figuring out how to build smart systems that can work on their own.
 
-🛠️ Languages & Tools
+🛠️ <strong>Languages & Tools</strong>
 Here are the tools I use to bring ideas to life, based on my academic training in advanced programming, Big Data, and AI.
 
-Core Languages: Python, C, Java (OOP), SQL, JavaScript.
+<strong>Core Languages:</strong> Python, C, Java (OOP), SQL, JavaScript.
 
-Domains: Artificial Intelligence, Machine Learning, Web Development, Database Management
+<strong>Domains:</strong> Artificial Intelligence, Machine Learning, Web Development, Database Management
 
-Tools & Technologies: Git, Big Data frameworks, Cloud technologies.
+<strong>Tools & Technologies:</strong> Git, Big Data frameworks, Cloud technologies.
 
-📫 How to reach me
+📫 <strong>How to reach me</strong><br>
 Let's connect!
 
 
