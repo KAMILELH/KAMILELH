@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! I'm Kamil 👋
 
 I'm a **Computer Engineering Student** focused on **AI & Software Design**. 
 I am currently completing my degree in **Ingénierie Informatique (LST2I)** at **FST Mohammedia**, specializing in building intelligent software solutions and managing complex data systems.
