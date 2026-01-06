@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **KAMILELH/KAMILELH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,6 +42,5 @@ Here are the tools I use to bring ideas to life, based on my academic training i
 ---
 
 ### 📫 How to reach me
-Let's connect!
 
 * **Email:** elharbili.kamil1@gmail.com
