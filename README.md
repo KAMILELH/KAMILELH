@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a **Computer Engineering Student** focused on **AI & Software Design**. 
+I'm a **Computer Engineering Student** focused on **AI & Data Science**. 
 I am currently completing my degree in **Ingénierie Informatique (LST2I)**, specializing in building intelligent software solutions and managing complex data systems.
 
 ---
@@ -35,7 +35,7 @@ I love digging into data and figuring out how to build smart systems that can wo
 ### 🛠️ Languages & Tools
 Here are the tools I use to bring ideas to life, based on my academic training in advanced programming, Big Data, and AI.
 
-* **Core Languages:** Python, C, Java (OOP), SQL, JavaScript.
+* **Core Languages:** Python, C, Java (OOP), SQL, PHP, JavaScript.
 * **Domains:** Artificial Intelligence, Machine Learning, Web Development, Database Management.
 * **Tools & Technologies:** Git, Big Data frameworks, Cloud technologies.
 
