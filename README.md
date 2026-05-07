@@ -44,3 +44,4 @@ Here are the tools I use to bring ideas to life, based on my academic training i
 ### 📫 How to reach me
 
 * **Email:** elharbili.kamil1@gmail.com
+* **LinkedIn:** www.linkedin.com/in/kamil-el-harbili
