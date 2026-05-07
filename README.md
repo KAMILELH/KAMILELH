@@ -36,7 +36,7 @@ I love digging into data and figuring out how to build smart systems that can wo
 Here are the tools I use to bring ideas to life, based on my academic training in advanced programming, Big Data, and AI.
 
 * **Core Languages:** Python, C, Java (OOP), SQL, PHP, JavaScript.
-* **Domains:** Artificial Intelligence, Machine Learning, Web Development, Database Management.
+* **Domains:** Artificial Intelligence, Machine Learning, Deep Learning, Web Development, Database Management.
 * **Tools & Technologies:** Git, Big Data frameworks, Cloud technologies.
 
 ---
